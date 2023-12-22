@@ -19,7 +19,7 @@
     <nav class="navbar navbar-dark bg-dark fixed-top navbar-expand-lg">
         <div class="container">
             <a class="navbar-brand" href="index.html">
-                <img src="img/codoacodo-min.png" alt="Codo a Codo logo">
+                <img src="./WebContent/img/codoacodo.png" alt="Codo a Codo logo">
                 Conf Bs As
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -39,7 +39,7 @@
                         <a class="nav-link" href="#">El lugar y la fecha</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#form-orador">Conviértete en orador</a>
+                        <a class="nav-link" href="#form-orador">Conviertete en orador</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link btn-compra-tickets" href="FrontController?accion=comprar">Comprar tickets</a>
@@ -72,7 +72,7 @@
                         <div class="row">
                             <div class="col-lg-8 offset-lg-6">
                                 <h3>Conf Bs. As.</h3>
-                                <p>Bs. As. llega por primera vez a la Argentina. Un evento para compartir con nuestra comunidad el conocimiento y la experiencia de los expertos que están creando el futuro de internet. Ven a conocer a miembros del evento, a otros estudiantes de Codo a Codo y a los oradores de primer nivel que tenemos para ti. Te esperamos!</p>
+                                <p>Bs. As. llega por primera vez a la Argentina. Un evento para compartir con nuestra comunidad el conocimiento y la experiencia de los expertos que estï¿½n creando el futuro de internet. Ven a conocer a miembros del evento, a otros estudiantes de Codo a Codo y a los oradores de primer nivel que tenemos para ti. Te esperamos!</p>
                                 <p><a class="btn btn-outline-light mb-3" href="#form-orador">Quiero ser orador</a> <a class="btn btn-success ms-2 mb-3" href="comprar-tickets.html">Comprar tickets</a></p>
                             </div>
                         </div>
@@ -86,7 +86,7 @@
                         <div class="row">
                             <div class="col-lg-6 offset-lg-6">
                                 <h3>Conf Bs. As.</h3>
-                                <p>Bs. As. llega por primera vez a la Argentina. Un evento para compartir con nuestra comunidad el conocimiento y la experiencia de los expertos que están creando el futuro de internet. Ven a conocer a miembros del evento, a otros estudiantes de Codo a Codo y a los oradores de primer nivel que tenemos para ti. Te esperamos!</p>
+                                <p>Bs. As. llega por primera vez a la Argentina. Un evento para compartir con nuestra comunidad el conocimiento y la experiencia de los expertos que estï¿½n creando el futuro de internet. Ven a conocer a miembros del evento, a otros estudiantes de Codo a Codo y a los oradores de primer nivel que tenemos para ti. Te esperamos!</p>
                                 <p><a class="btn btn-outline-light mb-3" href="#form-orador">Quiero ser orador</a> <a class="btn btn-success ms-2 mb-3" href="comprar-tickets.html">Comprar tickets</a></p>
                             </div>
                         </div>
@@ -100,7 +100,7 @@
                         <div class="row">
                             <div class="col-lg-6 offset-lg-6">
                                 <h3>Conf Bs. As.</h3>
-                                <p>Bs. As. llega por primera vez a la Argentina. Un evento para compartir con nuestra comunidad el conocimiento y la experiencia de los expertos que están creando el futuro de internet. Ven a conocer a miembros del evento, a otros estudiantes de Codo a Codo y a los oradores de primer nivel que tenemos para ti. Te esperamos!</p>
+                                <p>Bs. As. llega por primera vez a la Argentina. Un evento para compartir con nuestra comunidad el conocimiento y la experiencia de los expertos que estï¿½n creando el futuro de internet. Ven a conocer a miembros del evento, a otros estudiantes de Codo a Codo y a los oradores de primer nivel que tenemos para ti. Te esperamos!</p>
                                 <p><a class="btn btn-outline-light mb-3" href="#form-orador">Quiero ser orador</a> <a class="btn btn-success ms-2 mb-3" href="comprar-tickets.html">Comprar tickets</a></p>
                             </div>
                         </div>
@@ -126,7 +126,7 @@
                 <div class="row row-cols-1 row-cols-md-3 g-4">
                     <div class="col">
                         <div class="card h-100">
-                            <img src="img/steve-min.jpg" class="card-img-top" alt="...">
+                            <img src="./WebContent/img/steve-jobs.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <div class="mb-2">
                                     <span class="badge bg-warning text-dark">Javascript</span>
@@ -139,7 +139,7 @@
                     </div>
                     <div class="col">
                         <div class="card h-100">
-                            <img src="img/bill-min.jpg" class="card-img-top" alt="...">
+                            <img src="./WebContent/img/bill-gates.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <div class="mb-2">
                                     <span class="badge bg-warning text-dark">Javascript</span>
@@ -152,7 +152,7 @@
                     </div>
                     <div class="col">
                         <div class="card h-100">
-                            <img src="img/ada-min.jpeg" class="card-img-top" alt="...">
+                            <img src="./WebContent/img/ada-lovace.jpeg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <div class="mb-2">
                                     <span class="badge bg-secondary">Negocios</span>
@@ -172,12 +172,12 @@
     <section class="mb-4">
         <div class="row g-0">
             <div class="col-md">
-                <img src="img/honolulu-min.jpg" alt="Honolulu" class="img-fluid">
+                <img src="./WebContent/img/honolulu.jpg" alt="Honolulu" class="img-fluid">
             </div>
             <div class="col-md text-light bg-aside1">
                 <h2>Bs As - Octubre</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At placeat molestias vitae unde facere voluptatem minus voluptates commodi corrupti tenetur! Pariatur qui enim animi sapiente sed error similique molestiae ipsum! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, excepturi deleniti harum facilis id, a illo assumenda officiis illum praesentium eos. Qui laborum ratione in hic ducimus debitis voluptatum aperiam.</p>
-                <a class="btn btn-outline-light" href="#">Conocé más</a>
+                <a class="btn btn-outline-light" href="#">ConocÃ© mï¿½s</a>
             </div>
         </div>
     </section>
@@ -185,8 +185,8 @@
     <section class="container" id="form-orador">
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xl-7">
-                <h2 class="titulo-gral">Conviértete en un <span>orador</span></h2>
-                <p class="text-center">Anótate como orador para dar una charla ignite. Cuéntanos de qué quieres hablar!</p>
+                <h2 class="titulo-gral">Conviertete en un <span>orador</span></h2>
+                <p class="text-center">Anotate como orador para dar una charla ignite. Cuentanos de que quieres hablar!</p>
                 <form action="">
                     <div class="row gx-2">
                         <div class="col-md mb-3">
@@ -204,8 +204,8 @@
                     <div class="row">
                         <div class="col mb-3">
                             <textarea class="form-control" id="exampleFormControlTextarea1" rows="4"
-                                placeholder="Sobre qué quieres hablar?" required></textarea>
-                            <div id="emailHelp" class="form-text mb-3">Recuerda incluir un título para tu charla.</div>
+                                placeholder="Sobre quï¿½ quieres hablar?" required></textarea>
+                            <div id="emailHelp" class="form-text mb-3">Recuerda incluir un tÃ­tulo para tu charla.</div>
                             <div class="d-grid">
                                 <button type="submit" class="btn btn-lg btn-form">Enviar</button>
                             </div>
@@ -225,7 +225,7 @@
                 <a class="nav-link" href="#">Preguntas <span>frecuentes</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Contáctanos</a>
+                <a class="nav-link" href="#">Contï¿½ctanos</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#">Prensa</a>
@@ -234,7 +234,7 @@
                 <a class="nav-link" href="#">Conferencias</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Términos y <span>condiciones</span></a>
+                <a class="nav-link" href="#">TÃ©rminos y <span>condiciones</span></a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#">Privacidad</a>

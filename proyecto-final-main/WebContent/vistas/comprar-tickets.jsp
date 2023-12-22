@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="css/estilo.css" rel="stylesheet">
+    <link href="../css/estilo.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <title>Compra de ticket</title>
 </head>
@@ -16,7 +16,7 @@
     <nav class="navbar navbar-expand-lg bg-dark py-0">
         <div class="container-fluid ">
             <a class="navbar-brand text-white" href="#">
-                <img src="img/codoacodo-min.png" alt="Logo" width="65" height="50"
+                <img src="./WebContent/img/codoacodo.png" alt="Logo" width="65" height="50"
                     class="d-inline-block align text-center text-white">
                 Conf Bs As
             </a>
@@ -38,7 +38,7 @@
                             <a class="nav-link text-white" href="#lugar-fecha">El lugar y la fecha</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-white" href="#orador-form">Conviértete en orador</a>
+                            <a class="nav-link text-white" href="#orador-form">Conviï¿½rtete en orador</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-success" href="ticket.html">Comprar tickets</a>
@@ -58,7 +58,7 @@
                 </marquee>
                 <h5>Tiene un descuento</h5>
                 <h2>80%</h2>
-                <h6>* presentar documentación</h6>
+                <h6>* presentar documentaciÃ³n</h6>
             </div>
             <div class="trainee" id="descuentoTrainee">
                 <marquee behavior="" direction="">
@@ -66,7 +66,7 @@
                 </marquee>
                 <h5>Tiene un descuento</h5>
                 <h2>50%</h2>
-                <h6>* presentar documentación</h6>
+                <h6>* presentar documentaciÃ³n</h6>
             </div>
             <div class="junior" id="descuentoJunior">
                 <marquee behavior="" direction="">
@@ -74,7 +74,7 @@
                 </marquee>
                 <h5>Tiene un descuento</h5>
                 <h2>15%</h2>
-                <h6>* presentar documentación</h6>
+                <h6>* presentar documentaciÃ³n</h6>
             </div>
         </div>
         <div class="tickets-text">
@@ -140,7 +140,7 @@
                     <a class="text-white" href="#">Conferencias</a>
                 </li>
                 <li class="mx-3">
-                    <a class="text-white" href="#">Términos y condiciones</a>
+                    <a class="text-white" href="#">Tï¿½rminos y condiciones</a>
                 </li>
                 <li class="mx-3">
                     <a class="text-white" href="#">Privacidad</a>
@@ -156,7 +156,7 @@
 
 
 
-    <script src="js/ticket.js"></script>
+    <script src="../js/main.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
